@@ -1,10 +1,3 @@
-# This is my Resume
-
-## Skills
-
-`html` `java` `css`
-
-## Work
 
 ## Homework for CISC-3610
 
