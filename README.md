@@ -1,4 +1,8 @@
 
-## Homework for CISC-3610
+## CISC-3610
+
+## Project 
 
 [Canvas](https://silkygrandiosesystems.bigfish065.repl.co/)
+
+## Labs
