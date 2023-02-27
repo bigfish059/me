@@ -7,4 +7,4 @@
 
 ## Labs
 
-[fruits](https://vengefuldarkgraycores.bigfish065.repl.co//)
+[Fruits](https://vengefuldarkgraycores.bigfish065.repl.co//)
