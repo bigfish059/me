@@ -5,6 +5,8 @@
 
 [Canvas](https://silkygrandiosesystems.bigfish065.repl.co/)
 
+[Animated](https://bitesizednormalruntime.bigfish065.repl.co/)
+
 ## Labs
 
 [Fruit Chart](https://vengefuldarkgraycores.bigfish065.repl.co//)
