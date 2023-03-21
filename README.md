@@ -9,7 +9,7 @@
 
 [Form](https://interactive-display.bigfish065.repl.co/)
 
-[Wickeditor]
+[Wickeditor](https://wickeditor.bigfish065.repl.co/)
 
 ## Labs
 
