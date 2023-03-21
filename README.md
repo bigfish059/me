@@ -9,6 +9,8 @@
 
 [Form](https://agitatedindianredloaderprogram.bigfish065.repl.co/)
 
+[Wickeditor]
+
 ## Labs
 
 [Fruit Chart](https://vengefuldarkgraycores.bigfish065.repl.co//)
