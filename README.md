@@ -11,6 +11,8 @@
 
 [Wickeditor](https://wickeditor.bigfish065.repl.co/)
 
+[Resume](https://resume.bigfish065.repl.co/)
+
 ## Labs
 
 [Fruit Chart](https://vengefuldarkgraycores.bigfish065.repl.co//)
