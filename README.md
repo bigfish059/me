@@ -17,7 +17,7 @@
 
 [Fruit Chart](https://vengefuldarkgraycores.bigfish065.repl.co//)
 
-[Audio](https://lonedimpledcurrencies.bigfish065.repl.co/)
+[Audio](http://127.0.0.1:5500/index.html)
 
 [Resume](https://resume.bigfish065.repl.co/)
 
