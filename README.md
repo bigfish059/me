@@ -5,22 +5,22 @@
 
 [Canvas](http://canvas.bigfish065.repl.co/)
 
-[Animated](http://127.0.0.1:5500/index.html)
+[Animated](https://animated.bigfish065.repl.co/)
 
-[Wickeditor](http://127.0.0.1:5500/index.html)
+[Wickeditor](https://wickeditor.bigfish065.repl.co/)
 
-[interactive](http://127.0.0.1:5500/index.html)
+[interactive](https://interactive-display.bigfish065.repl.co/)
 
 
 ## Labs
 
-[Fruit Chart](http://127.0.0.1:5500/index.html)
+[Fruit Chart](https://fruit-chart.bigfish065.repl.co/)
 
 [Audio](http://127.0.0.1:5500/audio.html)
 
-[Resume](http://127.0.0.1:5500/index.html)
+[Resume](https://resume.bigfish065.repl.co/)
 
-[visual Data](http://127.0.0.1:5500/visual.html)
+[visual Data](http://data-visualization1234.bigfish065.repl.co/)
 
 
 
