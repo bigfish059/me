@@ -15,11 +15,11 @@
 
 ## Labs
 
-[Fruit Chart](https://vengefuldarkgraycores.bigfish065.repl.co//)
+[Fruit Chart](http://127.0.0.1:5500/index.html)
 
 [Audio](http://127.0.0.1:5500/index.html)
 
-[Resume](https://resume.bigfish065.repl.co/)
+[Resume](http://127.0.0.1:5500/index.html)
 
 
 
