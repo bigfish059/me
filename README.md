@@ -16,7 +16,7 @@
 
 [Fruit Chart](http://127.0.0.1:5500/index.html)
 
-[Audio](http://127.0.0.1:5500/index.html)
+[Audio](http://127.0.0.1:5500/audio.html)
 
 [Resume](http://127.0.0.1:5500/index.html)
 
