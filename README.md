@@ -9,7 +9,7 @@
 
 [Form](https://interactive-display.bigfish065.repl.co/)
 
-[Wickeditor](https://wickeditor.bigfish065.repl.co/)
+[Wickeditor](http://127.0.0.1:5500/index.html)
 
 [interactive](http://127.0.0.1:5500/index.html)
 
