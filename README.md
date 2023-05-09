@@ -3,7 +3,7 @@
 
 ## Project 
 
-[Canvas](https://silkygrandiosesystems.bigfish065.repl.co/)
+[Canvas](http://127.0.0.1:5500/index.html)
 
 [Animated](https://bitesizednormalruntime.bigfish065.repl.co/)
 
