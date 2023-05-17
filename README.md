@@ -16,7 +16,7 @@
 
 [Fruit Chart](https://fruit-chart.bigfish065.repl.co/)
 
-[Audio](http://127.0.0.1:5500/audio.html)
+[Audio](https://audio.bigfish065.repl.co/)
 
 [Resume](https://resume.bigfish065.repl.co/)
 
