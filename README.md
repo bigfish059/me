@@ -24,6 +24,6 @@
 
 [Sample Boot strap](https://sample-bootstrap.bigfish065.repl.co/)
 
-[wicked menu layway](http://127.0.0.1:5500/index.html)
+[wicked menu](http://127.0.0.1:5500/index.html)
 
 
