@@ -5,7 +5,7 @@
 
 [Canvas](http://canvas.bigfish065.repl.co/)
 
-[Animated](https://animated.bigfish065.repl.co/)
+[Animated](https://thirstyimperfectfilename.bigfish065.repl.co/)
 
 [Wickeditor](https://wickeditor.bigfish065.repl.co/)
 
